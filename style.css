@@ -1,0 +1,33 @@
+html {
+    scroll-behavior: smooth;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    align-items: center;
+}
+* {
+    box-sizing: border-box;
+}
+hr {
+    border: none;
+    border-top: 1px solid #dedcd6;
+
+    margin: 55px 0;
+}
+.essay {
+    display: block;
+    padding: 24px 0;
+
+    border-bottom: 1px solid #e5e3dd;
+}
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0 auto;
+    width: 700px;
+    display: column;
+    line-height: 1.6;
+    align-items: center;
+}
+.writing h3 {
+    font-size: 24px;
+    font-weight: 500;
+    margin: 0 0 30px;
+}
